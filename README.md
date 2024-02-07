@@ -1,3 +1,4 @@
+<!--HEADER -->
 <h1 align="center">Hi 👋, I'm Jean Carlos</h1>
 <h3 align="center">A passionate backend developer from Medellín, Colombia</h3>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **c4rl02dev@gmail.com**
 <hr/>
-   
+<!-- Capabilities -->   
 <h3 align="center"> ⚙️ &nbsp;Languages and Tools</h3>
 <p align="left">
   <div>
@@ -52,6 +53,7 @@
 </p>
 <hr/>
 
+<!-- Github activity -->
 ### 📊 &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/jeanc4rl02">
@@ -59,7 +61,9 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeanc4rl02&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<hr/>
 
+<!-- Contact -->
 <h3 align="center"> 📞 &nbsp;Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/jeanc-dev/"><img alt="Linkedin" title="Jean's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
