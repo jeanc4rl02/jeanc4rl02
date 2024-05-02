@@ -1,6 +1,9 @@
 <!--HEADER -->
-<h1 align="center">Hi 👋, I'm Jean Carlos</h1>
-<h3 align="center">A passionate backend developer from Medellín, Colombia</h3>
+<div align="center">
+  <img src="./media/banner-v1.gif" src="Jean's Banner" width="80%">
+</div>
+<h3 align="center">I'm a passionate backend developer from Medellín, Colombia</h3>
+<hr/>
 
 - 🔭 I’m currently working on **Microservices Project**
 
