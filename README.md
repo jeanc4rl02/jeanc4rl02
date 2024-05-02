@@ -1,6 +1,6 @@
 <!--HEADER -->
 <div align="center">
-  <img src="./media/banner-v2.gif" src="Jean's Banner" width="100%">
+  <img src="./media/banner-v2.1.gif" src="Jean's Banner" width="100%">
 </div>
 <h3 align="center">I'm a passionate backend developer from Medellín, Colombia</h3>
 <hr/>
