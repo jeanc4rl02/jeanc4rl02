@@ -60,8 +60,9 @@
 ### 📊 &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/jeanc4rl02">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeanc4rl02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeanc4rl02&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeanc4rl02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeanc4rl02&layout=compact&langs_count=8&theme=radical"/>
+  <img height="280em" src="https://github-contributor-stats.vercel.app/api?username=jeanc4rl02&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </a>
 </p>
 <hr/>
