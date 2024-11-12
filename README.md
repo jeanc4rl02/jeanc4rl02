@@ -5,9 +5,9 @@
 <h3 align="center">I'm a passionate backend developer from Medellín, Colombia</h3>
 <hr/>
 
-- 🔭 I’m currently working on **Microservices Project**
+- 🔭 I’m currently working at Bancolombia
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning Python and AI Engineering
 
 - 💬 Ask me about **Java**
 
